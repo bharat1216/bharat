@@ -1,0 +1,13 @@
+root@ip-172-31-9-4:/home/ubuntu# ls -l
+total 37788
+-rw-r--r-- 1 root   root        276 Nov  4 06:08 a1.text
+-rw-r--r-- 1 root   root          0 Nov  4 06:08 a1.txt
+-rw-r--r-- 1 root   root        235 Nov  4 06:09 a2.text
+-rw-r--r-- 1 root   root          0 Nov  4 06:08 a2.txt
+-rw-r--r-- 1 root   root        235 Nov  4 06:09 a3.text
+-rw-r--r-- 1 root   root          0 Nov  4 06:08 a3.txt
+-rw-r--r-- 1 root   root        207 Nov  4 06:10 a4.text
+-rw-r--r-- 1 root   root          0 Nov  4 06:20 a4.txt
+drwxr-xr-x 9 root   root       4096 Oct 29 06:42 apache-tomcat-8.5.47
+-rw-r--r-- 1 root   root   10267082 Oct  7 13:54 apache-tomcat-8.5.47.tar.gz
+-rw-r--r-- 1 root   root   10267082 Oct  7 13:54 apache-tomcat-8.5.47.tar.gz
